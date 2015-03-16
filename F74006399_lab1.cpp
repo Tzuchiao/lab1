@@ -1,3 +1,8 @@
+//Tzuchiao-Yeh 
+//F74006399
+//csie C++ lab1
+//at 3/16
+
 #include <iostream>
 using namespace std;
 
@@ -6,6 +11,7 @@ int main(int argc, const char * argv[]) {
     cout<<"please enter the number\n";
     cin>>n;
     cout<<n;
+    //simple do-while loop
     do
     {
         if(n%2==1)
